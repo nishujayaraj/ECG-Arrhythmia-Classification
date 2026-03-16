@@ -1,0 +1,6 @@
+data/
+mlruns/
+*.h5
+*.npy
+__pycache__/
+.ipynb_checkpoints/
